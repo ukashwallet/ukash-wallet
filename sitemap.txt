@@ -1,3 +1,5 @@
+---
+---
 https://ukashwallet.github.io/ukash-wallet/cs/paysafecard-na-bankovni-ucet/
 https://ukashwallet.github.io/ukash-wallet/cs/paysafecard-na-bitcoin/
 https://ukashwallet.github.io/ukash-wallet/cs/paysafecard-na-dogecoin/

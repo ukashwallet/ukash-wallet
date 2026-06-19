@@ -31,8 +31,11 @@
     *{margin:0;padding:0;box-sizing:border-box;}
     body{font-family:'DM Sans',sans-serif;background:var(--bg);color:var(--text);line-height:1.7;}
     body::before{content:'';position:fixed;top:-50%;left:-50%;width:200%;height:200%;background:radial-gradient(ellipse at 20% 20%,rgba(108,99,255,0.07) 0%,transparent 50%),radial-gradient(ellipse at 80% 80%,rgba(0,212,170,0.05) 0%,transparent 50%);z-index:0;pointer-events:none;}
-    .lang-bar{background:rgba(255,255,255,0.04);border-bottom:1px solid rgba(255,255,255,0.07);padding:10px 24px;display:flex;justify-content:flex-end;gap:6px;position:sticky;top:0;z-index:100;backdrop-filter:blur(10px);flex-wrap:wrap;}
+    .lang-bar{background:rgba(255,255,255,0.04);border-bottom:1px solid rgba(255,255,255,0.07);padding:10px 24px;display:flex;justify-content:space-between;align-items:center;gap:6px;position:sticky;top:0;z-index:100;backdrop-filter:blur(10px);flex-wrap:wrap;}
     .lang-bar a{color:var(--muted);text-decoration:none;font-family:'Syne',sans-serif;font-size:12px;font-weight:700;letter-spacing:0.08em;padding:5px 10px;border-radius:6px;border:1px solid transparent;transition:all 0.2s;}
+    .lang-bar .home-link{display:inline-flex;align-items:center;color:var(--accent2);border:1px solid var(--border);}
+    .lang-bar .home-link:hover{border-color:var(--accent2);background:rgba(255,255,255,0.04);}
+    .lang-bar .lang-links{display:flex;gap:6px;flex-wrap:wrap;justify-content:flex-end;}
     .lang-bar a:hover{color:var(--text);border-color:var(--border);}
     .lang-bar a.active{color:var(--accent2);border-color:var(--accent2);background:rgba(0,212,170,0.08);}
     .container{max-width:860px;margin:0 auto;padding:0 24px;position:relative;z-index:1;}
@@ -87,6 +90,8 @@
 </head>
 <body>
   <nav class="lang-bar">
+        <a href="https://ukashwallet.github.io/ukash-wallet/de/" class="home-link"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" style="vertical-align:-2px;margin-right:5px;"><path d="M3 12l9-9 9 9M5 10v10h14V10"/></svg>Startseite</a>
+        <div class="lang-links">
         <a href="https://ukashwallet.github.io/ukash-wallet/paysafecard-to-tron/">EN</a>
         <a href="https://ukashwallet.github.io/ukash-wallet/de/paysafecard-zu-tron/" class="active">DE</a>
         <a href="https://ukashwallet.github.io/ukash-wallet/fr/paysafecard-vers-tron/">FR</a>
@@ -97,6 +102,7 @@
         <a href="https://ukashwallet.github.io/ukash-wallet/no/paysafecard-til-tron/">NO</a>
         <a href="https://ukashwallet.github.io/ukash-wallet/sv/paysafecard-till-tron/">SV</a>
         <a href="https://ukashwallet.github.io/ukash-wallet/cs/paysafecard-na-tron/">CS</a>
+  </div>
   </nav>
   <div class="container">
     <header>

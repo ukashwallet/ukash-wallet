@@ -1,4 +1,5 @@
 https://ukashwallet.github.io/ukash-wallet/
+https://ukashwallet.github.io/ukash-wallet/cs/
 https://ukashwallet.github.io/ukash-wallet/cs/paysafecard-na-alipay/
 https://ukashwallet.github.io/ukash-wallet/cs/paysafecard-na-bankovni-ucet/
 https://ukashwallet.github.io/ukash-wallet/cs/paysafecard-na-bitcoin/
@@ -21,6 +22,7 @@ https://ukashwallet.github.io/ukash-wallet/cs/paysafecard-na-vizu/
 https://ukashwallet.github.io/ukash-wallet/cs/paysafecard-na-webmoney/
 https://ukashwallet.github.io/ukash-wallet/cs/paysafecard-na-wise/
 https://ukashwallet.github.io/ukash-wallet/cs/paysafecard-na-xrp/
+https://ukashwallet.github.io/ukash-wallet/de/
 https://ukashwallet.github.io/ukash-wallet/de/paysafecard-auf-bankkonto/
 https://ukashwallet.github.io/ukash-wallet/de/paysafecard-auf-visa/
 https://ukashwallet.github.io/ukash-wallet/de/paysafecard-zu-alipay/
@@ -43,6 +45,7 @@ https://ukashwallet.github.io/ukash-wallet/de/paysafecard-zu-usdt/
 https://ukashwallet.github.io/ukash-wallet/de/paysafecard-zu-webmoney/
 https://ukashwallet.github.io/ukash-wallet/de/paysafecard-zu-wise/
 https://ukashwallet.github.io/ukash-wallet/de/paysafecard-zu-xrp/
+https://ukashwallet.github.io/ukash-wallet/es/
 https://ukashwallet.github.io/ukash-wallet/es/paysafecard-a-alipay/
 https://ukashwallet.github.io/ukash-wallet/es/paysafecard-a-bitcoin/
 https://ukashwallet.github.io/ukash-wallet/es/paysafecard-a-blik/
@@ -65,6 +68,7 @@ https://ukashwallet.github.io/ukash-wallet/es/paysafecard-a-visa/
 https://ukashwallet.github.io/ukash-wallet/es/paysafecard-a-webmoney/
 https://ukashwallet.github.io/ukash-wallet/es/paysafecard-a-wise/
 https://ukashwallet.github.io/ukash-wallet/es/paysafecard-a-xrp/
+https://ukashwallet.github.io/ukash-wallet/fr/
 https://ukashwallet.github.io/ukash-wallet/fr/paysafecard-vers-alipay/
 https://ukashwallet.github.io/ukash-wallet/fr/paysafecard-vers-bitcoin/
 https://ukashwallet.github.io/ukash-wallet/fr/paysafecard-vers-blik/
@@ -87,6 +91,7 @@ https://ukashwallet.github.io/ukash-wallet/fr/paysafecard-vers-usdt/
 https://ukashwallet.github.io/ukash-wallet/fr/paysafecard-vers-webmoney/
 https://ukashwallet.github.io/ukash-wallet/fr/paysafecard-vers-wise/
 https://ukashwallet.github.io/ukash-wallet/fr/paysafecard-vers-xrp/
+https://ukashwallet.github.io/ukash-wallet/it/
 https://ukashwallet.github.io/ukash-wallet/it/paysafecard-a-alipay/
 https://ukashwallet.github.io/ukash-wallet/it/paysafecard-a-bitcoin/
 https://ukashwallet.github.io/ukash-wallet/it/paysafecard-a-blik/
@@ -109,6 +114,7 @@ https://ukashwallet.github.io/ukash-wallet/it/paysafecard-a-visa/
 https://ukashwallet.github.io/ukash-wallet/it/paysafecard-a-webmoney/
 https://ukashwallet.github.io/ukash-wallet/it/paysafecard-a-wise/
 https://ukashwallet.github.io/ukash-wallet/it/paysafecard-a-xrp/
+https://ukashwallet.github.io/ukash-wallet/no/
 https://ukashwallet.github.io/ukash-wallet/no/paysafecard-til-alipay/
 https://ukashwallet.github.io/ukash-wallet/no/paysafecard-til-bankkonto/
 https://ukashwallet.github.io/ukash-wallet/no/paysafecard-til-bitcoin/
@@ -153,6 +159,7 @@ https://ukashwallet.github.io/ukash-wallet/paysafecard-to-visa/
 https://ukashwallet.github.io/ukash-wallet/paysafecard-to-webmoney/
 https://ukashwallet.github.io/ukash-wallet/paysafecard-to-wise/
 https://ukashwallet.github.io/ukash-wallet/paysafecard-to-xrp/
+https://ukashwallet.github.io/ukash-wallet/pl/
 https://ukashwallet.github.io/ukash-wallet/pl/paysafecard-na-alipay/
 https://ukashwallet.github.io/ukash-wallet/pl/paysafecard-na-bitcoin/
 https://ukashwallet.github.io/ukash-wallet/pl/paysafecard-na-blik/
@@ -175,6 +182,7 @@ https://ukashwallet.github.io/ukash-wallet/pl/paysafecard-na-visa/
 https://ukashwallet.github.io/ukash-wallet/pl/paysafecard-na-webmoney/
 https://ukashwallet.github.io/ukash-wallet/pl/paysafecard-na-wise/
 https://ukashwallet.github.io/ukash-wallet/pl/paysafecard-na-xrp/
+https://ukashwallet.github.io/ukash-wallet/pt/
 https://ukashwallet.github.io/ukash-wallet/pt/paysafecard-para-alipay/
 https://ukashwallet.github.io/ukash-wallet/pt/paysafecard-para-bitcoin/
 https://ukashwallet.github.io/ukash-wallet/pt/paysafecard-para-blik/
@@ -197,6 +205,7 @@ https://ukashwallet.github.io/ukash-wallet/pt/paysafecard-para-visa/
 https://ukashwallet.github.io/ukash-wallet/pt/paysafecard-para-webmoney/
 https://ukashwallet.github.io/ukash-wallet/pt/paysafecard-para-wise/
 https://ukashwallet.github.io/ukash-wallet/pt/paysafecard-para-xrp/
+https://ukashwallet.github.io/ukash-wallet/sv/
 https://ukashwallet.github.io/ukash-wallet/sv/paysafecard-till-alipay/
 https://ukashwallet.github.io/ukash-wallet/sv/paysafecard-till-bankkonto/
 https://ukashwallet.github.io/ukash-wallet/sv/paysafecard-till-bitcoin/
